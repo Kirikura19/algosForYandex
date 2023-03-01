@@ -58,7 +58,7 @@ public class Main
         for(int i = 0; i < countingArr.length; i++)
             for(int j = 0; j < countingArr[i]; j++)
                 answer.add(min + i);
-        
+
         return answer;
     }
 

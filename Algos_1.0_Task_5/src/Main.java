@@ -2,46 +2,44 @@ import java.util.Scanner;
 
 public class Main
 {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         Scanner in = new Scanner(System.in);
-        int k1 = in.nextInt(); // новый номер квартиры
+        int apartNew = in.nextInt(); // новый номер квартиры
+        int flourAll = in.nextInt(); // этажей всего
+        int apartOld = in.nextInt(); // старый номер квартиры
+        int podOld = in.nextInt(); // старый номер подъезда
+        int flourOld = in.nextInt(); // старый номер этажа
 
-        int m = in.nextInt(); // этажей всего
-        int k2 = in.nextInt(); // номер квартиры
-        int p2 = in.nextInt(); // номер подъезд
-        int n2 = in.nextInt(); // номер этажа
+        89 20 41 1 11
 
 
+        int flourNew = 0;
+        int podNew = 0;
+        int flours = 0;
+        int curPod = 1;
 
-        int f = 0; // квартир на этаже
-
-        int p1, n1; // Подъезд, этаж
-
-        while (n2 * f < k2) {
-            f++;
-        }
-
-        p1 = p2;
-
-        while (k1 > m * p1 * f)
-        {
-            p1++;
-        }
-
-        n1 = 1;
-        if(m != 1)
-        {
-            while (k1 > ((p1-1)*m*f) + (n1 * f))
-            {
-                n1++;
-            }
-
-        }
+        while(41 > 11*flours)
+            flours++;
+        if(apartNew > curPod * flourAll * flours)
+            curPod++;
 
 
 
 
-        System.out.println(p1 + " " + n1);
+
+
+        if(flourAll == 1)
+            podNew = 0;
+        if(flourOld == 1 && podNew == 1)
+            flourOld = 0;
+        if(apartOld < flourOld * podOld)
+            System.out.println("-1 -1");
+
+
+
+
+
 
 
     }
