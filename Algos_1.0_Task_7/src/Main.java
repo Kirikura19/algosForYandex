@@ -9,10 +9,12 @@ public class Main
         metal[0] = in.nextInt();
         metal[1] = in.nextInt();
         metal[2] = in.nextInt();
+        in.close();
         return metal;
     }
 
-    static void makeMetal()
+
+    public static void main(String[] args)
     {
         int[] metal = input();
         int q = 0;
@@ -36,10 +38,5 @@ public class Main
             }
         }
         System.out.println(q);
-    }
-
-    public static void main(String[] args)
-    {
-        makeMetal();
     }
 }
