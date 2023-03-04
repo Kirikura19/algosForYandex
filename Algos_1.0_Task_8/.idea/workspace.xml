@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5c22606-ff4e-4aac-8f0d-b0ef0889d1e1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task7/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task7/Algos_1.0_Task7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task7/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_1/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_1/Algos_1.0_Task_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_1/out/production/Algos_1.0_Task_1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_2/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_2/Algos_1.0_Task_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_2/out/production/Algos_1.0_Task_2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_3/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_3/Algos_1.0_Task_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_4/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_4/Algos_1.0_Task_4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_4/out/production/Algos_1.0_Task_4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_5/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_5/Algos_1.0_Task_5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_5/out/production/Algos_1.0_Task_5/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_5/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_6/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_6/Algos_1.0_Task_6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_6/out/production/Algos_1.0_Task_6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_6/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_7/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_7/Algos_1.0_Task_7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_7/out/production/Algos_1.0_Task_7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algos_1.0_Task_7/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algos_1.0_Task_8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algos_1.0_Task_8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../groupBySameLetters/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../groupBySameLetters/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MQIE1Vpmv8JlKGCSr82lmF8wRf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Caricature/Desktop/algosForYandex/algosForYandex/Algos_1.0_G_Task_1"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5c22606-ff4e-4aac-8f0d-b0ef0889d1e1" name="Changes" comment="" />
+      <created>1677693264725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677693264725</updated>
+      <workItem from="1677693265900" duration="1122000" />
+      <workItem from="1677929116210" duration="28000" />
+      <workItem from="1677935035849" duration="15000" />
+      <workItem from="1677935061095" duration="6825000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

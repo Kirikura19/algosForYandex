@@ -2,6 +2,13 @@ import java.util.*;
 
 public class Main
 {
+
+    public static String step(String[] temp)
+    {
+        Arrays.sort(temp);
+        String tempSortedSeq = Arrays.toString(temp);
+        return tempSortedSeq;
+    }
     public static void main(String[] args)
     {
 
@@ -9,14 +16,13 @@ public class Main
         Scanner in = new Scanner(System.in);
         String[] seq = in.nextLine().split(", ");
         String[] temp;
-        String tempSortedSeq;
 
 
         for(int i = 0; i < seq.length; i++)
         {
             temp = seq[i].split("");
-            Arrays.sort(temp);
-            tempSortedSeq = Arrays.toString(temp);
+            String tempSortedSeq = step(temp);
+
             if(!dictionary.containsKey(tempSortedSeq))
             {
                 dictionary.put(tempSortedSeq, "");
