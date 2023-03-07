@@ -8,16 +8,21 @@ public class Main {
         System.out.println(Arrays.toString(arrSeqPrefSum));
         return arrSeqPrefSum[end] - arrSeqPrefSum[beg];
     }
+
     public static  int[] makePrefixSum(int[] arrSeq)
     {
         int[] arrSeqPrefSum = new int[arrSeq.length + 1];
         arrSeqPrefSum[0] = 0;
         for(int i = 1; i < arrSeqPrefSum.length; i++)
         {
-            arrSeqPrefSum[i] = arrSeq[i-1] + arrSeqPrefSum[i-1];
+            if(arrSeq[i-1] == 0)
+                arrSeqPrefSum[i] = arrSeqPrefSum[i - 1] + 1;
+            else
+                arrSeqPrefSum[i] = arrSeqPrefSum[i - 1];
         }
-       return arrSeqPrefSum;
+        return arrSeqPrefSum;
     }
+
     public static int[] enterSeq()
     {
         Scanner in = new Scanner(System.in);
